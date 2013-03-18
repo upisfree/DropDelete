@@ -1,0 +1,18 @@
+name: DropDelete
+version: 1.0
+description: Delete the items you drop!
+author: lemon42
+authors: [lemon42]
+main: lemon42.DropDelete.DropDelete
+website: http://dev.bukkit.org/profiles/lemon42
+database: false
+
+commands:
+   del:
+      description: Toggles drop deletion mode.
+      usage: /del
+
+permissions:
+    DropDelete.use:
+        description: Allows plugin usage
+        default: true
