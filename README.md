@@ -1,7 +1,7 @@
 DropDelete
 ==========
 
-Bukkit plugin -- delete whatever you drop!
+Bukkit plugin — delete whatever you drop!
 
 Download
 ==========

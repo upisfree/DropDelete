@@ -1,0 +1,13 @@
+#DropDelete language file
+#Additional languages can be obtained from http://dev.bukkit.org/server-mods/dropdelete
+
+
+revision: 2
+customFile: false
+author: upisfree
+prefix: '&9[DropDelete] '
+itemsNotDelete: Теперь твои предметы не удаляются при дропе.
+itemsDelete: Теперь твои предметы удаляются при дропе.
+noPerms: У тебя нет прав, чтобы использовать эту команду.
+onlyPlayersUse: Только игроки могут использовать эту команду.
+#End of file

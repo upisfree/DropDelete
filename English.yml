@@ -1,0 +1,13 @@
+#DropDelete language file
+#Additional languages can be obtained from http://dev.bukkit.org/server-mods/dropdelete
+
+
+revision: 2
+customFile: false
+author: lemon42
+prefix: '&9[DropDelete] '
+itemsNotDelete: Your items will no longer delete when dropped.
+itemsDelete: Your items will now delete when dropped.
+noPerms: You don't have sufficient permissions to use this command.
+onlyPlayersUse: Only players may use this command.
+#End of file
